@@ -1,0 +1,7 @@
+data
+errors_lstm.csv
+errors_lstm_2.csv
+lstm_model
+lstm_model_2
+pred_lstm.csv
+pred_lstm_2.csv
